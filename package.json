@@ -1,0 +1,28 @@
+{
+  "name": "trust-dark-theme",
+  "displayName": "trust dark theme",
+  "description": "trust dark theme!",
+  "version": "0.0.1",
+  "publisher": "TrustDarkTheme",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+     "trust dark",
+    "trust dark theme"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Trust Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Trust Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
