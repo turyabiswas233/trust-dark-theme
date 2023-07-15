@@ -19,7 +19,7 @@
     "activityBar.background": "#13092e",
     "tab.activeBackground": "#00054e99",
     "titleBar.activeBackground": "#13092e",
-    "editorGroup.emptyBackground": "#ff0000",
+    "editorGroup.emptyBackground": "#30335f80",
     "editorGroup.dropBackground": "#18042ccc"
   },
   "tokenColors": [
