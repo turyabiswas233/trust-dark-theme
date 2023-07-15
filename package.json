@@ -7,10 +7,14 @@
   "engines": {
     "vscode": "^1.80.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turyabiswas233/trust-dark-theme"
+  },
   "keywords": [
     "theme",
     "dark theme",
-     "trust dark",
+    "trust dark",
     "trust dark theme"
   ],
   "categories": [
