@@ -2,7 +2,7 @@
   "name": "trust-dark-theme",
   "displayName": "trust dark theme",
   "description": "trust dark theme!",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "TrustDarkTheme",
   "engines": {
     "vscode": "^1.80.0"
