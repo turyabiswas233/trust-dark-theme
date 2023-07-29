@@ -1,7 +1,7 @@
 {
   "name": "Trust Dark Theme",
   "colors": {
-    "editor.background": "#0a0d18",
+    "editor.background": "#1f193d",
     "editor.foreground": "#3763a7",
     "activityBarBadge.background": "#4a5dec",
     "sideBar.foreground": "#8982b3b6",
