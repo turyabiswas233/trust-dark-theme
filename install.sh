@@ -1,2 +1,2 @@
 echo "y" | vsce package
-code --install-extension trust-dark-theme-2.0.0.vsix
+code --install-extension trust-dark-theme-green-1.1.1.vsix

@@ -1,9 +1,9 @@
 {
-  "name": "trust-dark-theme",
-  "displayName": "trust dark theme",
-  "description": "trust dark theme!",
-  "version": "2.0.0",
-  "publisher": "TrustDarkTheme",
+  "name": "trust-dark-theme-green",
+  "displayName": "Trust Dark Theme - Green",
+  "description": "Trust Dark Theme - Green!",
+  "version": "1.1.1",
+  "publisher": "turya07",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -13,9 +13,11 @@
   },
   "keywords": [
     "theme",
-    "dark theme",
-    "trust dark",
-    "trust dark theme"
+    "green",
+    "dark",
+    "trust dark theme",
+    "dark theme green",
+    "dark theme trust"
   ],
   "categories": [
     "Themes"
@@ -23,9 +25,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Trust Dark Theme",
+        "label": "Dark Theme - Green",
         "uiTheme": "vs-dark",
-        "path": "./themes/Trust Dark Theme-color-theme.json"
+        "path": "./themes/color-theme.json"
       }
     ]
   }

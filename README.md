@@ -2,6 +2,17 @@
 
 ## SCREENSHOTS
 
-![screenshot1](https://raw.githubusercontent.com/turyabiswas233/trust-dark-theme/main/public/Screenshot%202023-07-29%20191722.png)
+![screenshot1](public/theme_image.png)
 
 **Enjoy!**
+
+# Clone the project
+```bash
+git clone https://github.com/turya07/trust-dark-theme.git
+```
+# Install using the cmd \[windows/linux\]
+
+```powershell
+echo "y" | vsce package
+code --install-extension trust-dark-theme-2.1.0.vsix
+```
